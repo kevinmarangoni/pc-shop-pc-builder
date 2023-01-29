@@ -1,53 +1,57 @@
+import randomizer from "./randomizer";
 
-
-export async function sortPriceAscending(data, key) {
-    return data.sort((a, b) => {
-        return a[key] > b[key] ? 1 : -1;
-    });
+export async function sortPriceAscending(data) {
+  return data.sort((a, b) => {
+    return a.price > b.price ? 1 : -1;
+  });
 }
 
-export async function sortPriceDescending(data, key) {
-    return data.sort((a, b) => {
-        return a[key] < b[key] ? 1 : -1;
-    });
+export async function sortPriceDescending(data) {
+  return data.sort((a, b) => {
+    return a.price < b.price ? 1 : -1;
+  });
 }
 
-export async function sortAlphabeticalAscending(data, key) {
-    return data.sort((a, b) => {
-        return a[key].localeCompare(b[key]);
-    });
+export async function sortAlphabeticalAscending(data) {
+  return data.sort((a, b) => {
+    return a.title.localeCompare(b.title);
+  });
 }
 
-export async function sortAlphabeticalDescending(data, key) {
-    return data.sort((a, b) => {
-        return b[key].localeCompare(a[key]);
-    });
+export async function sortAlphabeticalDescending(data) {
+  return data.sort((a, b) => {
+    return b.title.localeCompare(a.title);
+  });
 }
 
 export default async function (sortingBy, flow, data) {
+  try {
     switch (sortingBy) {
-      case "aphabetical":
-        if(flow == 'descending'){
-  
+      case "alphabetical":
+        if (flow == "descending") {
+          return sortAlphabeticalDescending(data);
         }
-        if(flow == 'ascending'){
-          
+        if (flow == "ascending") {
+          return sortAlphabeticalAscending(data);
         }
-        return ;
-      case "price":
-        if(flow == 'descending'){
-  
-        }
-        if(flow == 'ascending'){
-          
-        }
-        return;
-      case "none":
-        
-        return;
-  
-      default:
-        console.log("error at choosing sorting method");
         break;
+      case "price":
+        if (flow == "descending") {
+          return sortPriceDescending(data);
+        }
+        if (flow == "ascending") {
+          return sortPriceAscending(data);
+        }
+        break;
+      case "none":
+        return await randomizer(data);
+      default:
+        console.log(
+          "error at choosing sorting method, returning randomized data instead"
+        );
+        return randomizer(data);
     }
+  } catch (err) {
+    console.log(`error at choosing sorting method, ${err}`);
   }
+}
