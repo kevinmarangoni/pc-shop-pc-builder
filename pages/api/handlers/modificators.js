@@ -3,16 +3,22 @@ import existingIds from '/pages/api/database/newTables/existingIds.json'
 
 export async function modifyPropertyValue(table, tableName, key) {
     table.forEach(item => {
-        if(item[key] && Object.keys(item[key]).length == 0){
+        if(item[key] && item[key] != ""){
             const array = item[key].split(" ");
             item[key] = {
-                value: Number(array[0]),
-                unit: array[1]
+                value: Number(array[0]) ?? 0,
+                unit: array[1] ?? ""
+            }
+        }
+        if(item[key] == ""){
+            item[key] = {
+                value: 0,
+                unit: ""
             }
         }
     });
 
-    fs.writeFileSync(`pages/api/database/newTables/${tableName}.json`, JSON.stringify(table));
+    fs.writeFileSync(`pages/api/database/${tableName}.json`, JSON.stringify(table));
     return table;
 }
 
@@ -21,7 +27,7 @@ export async function updateIds(table, tableName) {
         item.id = generateASIN(existingIds);
         existingIds.push(item.id);
     });
-    fs.writeFileSync(`pages/api/database/newTables/${tableName}.json`, JSON.stringify(table));
+    fs.writeFileSync(`pages/api/database/${tableName}.json`, JSON.stringify(table));
     fs.writeFileSync(`pages/api/database/newTables/existingIds.json`, JSON.stringify(existingIds));
     return table;
 }
