@@ -23,3 +23,31 @@ export async function sortAlphabeticalDescending(data, key) {
         return b[key].localeCompare(a[key]);
     });
 }
+
+export default async function (sortingBy, flow, data) {
+    switch (sortingBy) {
+      case "aphabetical":
+        if(flow == 'descending'){
+  
+        }
+        if(flow == 'ascending'){
+          
+        }
+        return ;
+      case "price":
+        if(flow == 'descending'){
+  
+        }
+        if(flow == 'ascending'){
+          
+        }
+        return;
+      case "none":
+        
+        return;
+  
+      default:
+        console.log("error at choosing sorting method");
+        break;
+    }
+  }
