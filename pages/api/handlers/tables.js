@@ -1,4 +1,4 @@
-import cpu from "/pages/api/database/processors.json";
+import cpu from "/pages/api/database/cpu.json";
 import cpuFan from "/pages/api/database/cpu_fan.json"
 import cases from "/pages/api/database/cases.json"
 import caseFan from "/pages/api/database/case_fan.json"

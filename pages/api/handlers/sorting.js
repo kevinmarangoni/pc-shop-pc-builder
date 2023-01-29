@@ -24,26 +24,18 @@ export async function sortAlphabeticalDescending(data) {
   });
 }
 
-export default async function (sortingBy, flow, data) {
+export default async function (sortingBy, data) {
   try {
     switch (sortingBy) {
-      case "alphabetical":
-        if (flow == "descending") {
-          return sortAlphabeticalDescending(data);
-        }
-        if (flow == "ascending") {
-          return sortAlphabeticalAscending(data);
-        }
-        break;
-      case "price":
-        if (flow == "descending") {
-          return sortPriceDescending(data);
-        }
-        if (flow == "ascending") {
-          return sortPriceAscending(data);
-        }
-        break;
-      case "none":
+      case "alphaAsc":
+        return sortAlphabeticalAscending(data);
+      case "alphaDesc":
+        return sortAlphabeticalDescending(data);
+      case "priceAsc":
+        return sortPriceAscending(data);
+      case "priceDesc":
+        return sortPriceDescending(data);
+      case null:
         return await randomizer(data);
       default:
         console.log(
