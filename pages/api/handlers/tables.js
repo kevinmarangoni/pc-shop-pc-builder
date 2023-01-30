@@ -29,7 +29,8 @@ export async function getAllItems() {
 }
 
 export async function getAllItemsRandomized() {
-  return randomizer(getAllItems());
+  let data = await getAllItems()
+  return randomizer(data);
 }
 
 export async function getTables() {
