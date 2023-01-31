@@ -1,0 +1,2507 @@
+[
+    {
+        "id": "SWU4IYF741",
+        "title": "AMD Ryzen Threadripper 3990X 64-Core, 128-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0815SBQ9W?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41cAAdXKoeL._SL1500_.jpg",
+        "price": 7994.99,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 3990X",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "sTRX4"
+    },
+    {
+        "id": "EUO97ZNRUM",
+        "title": "AMD Ryzen™ 9 7950X 16-Core, 32-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0BBHD5D8Y?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/21ss9c4ehpL._SL1500_.jpg",
+        "price": 589.99,
+        "brand": "AMD",
+        "model": "Ryzen 9 7950X",
+        "speed": {
+            "value": 5.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM5"
+    },
+    {
+        "id": "3PITNAHSCM",
+        "title": "Intel Core I9-13900KF Desktop Processor 24 Cores (8 P-cores + 16 E-cores) 36M Cache, Up To 5.8 GHz",
+        "link": "https://amazon.com/dp/B0BCFM3CJ4?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41D9nB+X2DL._SL1500_.jpg",
+        "price": 573.99,
+        "brand": "Intel",
+        "model": "Core i9-13900KF",
+        "speed": {
+            "value": 5.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "UOA5RSPJ7E",
+        "title": "AMD Ryzen Threadripper 3970X 32-Core, 64-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0815JJQQ8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41hzAFLpHnL._SL1500_.jpg",
+        "price": 3440,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 3970X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "sTRX4"
+    },
+    {
+        "id": "4NICOQUQWN",
+        "title": "Intel Core I9-13900K Desktop Processor 24 Cores (8 P-cores + 16 E-cores) 36M Cache, Up To 5.8 GHz",
+        "link": "https://amazon.com/dp/B0BCF54SR1?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41rGgIVGb8L._SL1500_.jpg",
+        "price": 598,
+        "brand": "Intel",
+        "model": "Core i9-13900K",
+        "speed": {
+            "value": 5.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "KKK5GV8HQP",
+        "title": "AMD Ryzen Threadripper 3960X 24-Core, 48-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0815JGCXP?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41h23msMVtL._SL1500_.jpg",
+        "price": 1369.99,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 3960X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "sTRX4"
+    },
+    {
+        "id": "WWIGBZXXYD",
+        "title": "AMD Ryzen™ 9 7900X 12-Core, 24-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0BBJ59WJ4?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/21ss9c4ehpL._SL1500_.jpg",
+        "price": 419.99,
+        "brand": "AMD",
+        "model": "Ryzen 9 7900X",
+        "speed": {
+            "value": 5.6,
+            "unit": "GHz"
+        },
+        "socketType": "AM5"
+    },
+    {
+        "id": "VXLT5OSUUE",
+        "title": "AMD Ryzen 9 5950X 16-core, 32-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0815Y8J9N?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41rLUI4FOAL._SL1500_.jpg",
+        "price": 497.99,
+        "brand": "AMD",
+        "model": "Ryzen 9 5950X",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "GJAAXBGKA6",
+        "title": "Intel Core I7-13700K Desktop Processor 16 Cores (8 P-cores + 8 E-cores) 30M Cache, Up To 5.4 GHz",
+        "link": "https://amazon.com/dp/B0BCF57FL5?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41lrYu23K8L._SL1500_.jpg",
+        "price": 419.55,
+        "brand": "Intel",
+        "model": "Core i7-13700K",
+        "speed": {
+            "value": 5.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "MGD9OBTC9I",
+        "title": "Intel Core I9 (12th Gen) I9-12900KS Hexadeca-core (16 Core) 2.50 GHz Processor",
+        "link": "https://amazon.com/dp/B09RWL74GY?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41dSYd5azfL._SL1500_.jpg",
+        "price": 512.99,
+        "brand": "Intel",
+        "model": "Core i9-12900KS",
+        "speed": {
+            "value": 5.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "WQONF8T6PR",
+        "title": "Intel Core I5-13600KF Desktop Processor 14 Cores (6 P-cores + 8 E-cores) 24M Cache, Up To 5.1 GHz",
+        "link": "https://amazon.com/dp/B0BCF5CZ16?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41UNuSOSIpL._SL1500_.jpg",
+        "price": 304.52,
+        "brand": "Intel",
+        "model": "Core i5-13600KF",
+        "speed": {
+            "value": 5.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "MILHMKTKAM",
+        "title": "AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B08164VTWH?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41rLUI4FOAL._SL1500_.jpg",
+        "price": 329.99,
+        "brand": "AMD",
+        "model": "Ryzen 9 5900X",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "M26QKPFRTB",
+        "title": "Intel Core I5-13600K Desktop Processor 14 Cores (6 P-cores + 8 E-cores) 24M Cache, Up To 5.1 GHz",
+        "link": "https://amazon.com/dp/B0BCDR9M33?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/418fSnjjCEL._SL1500_.jpg",
+        "price": 318.95,
+        "brand": "Intel",
+        "model": "Core i5-13600K",
+        "speed": {
+            "value": 5.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "ZIZVU6LEVF",
+        "title": "AMD Ryzen 9 3950X 16-Core, 32-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B07ZTYKLZW?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51S7QN-YF2L._SL1500_.jpg",
+        "price": 610,
+        "brand": "AMD",
+        "model": "Ryzen 9 3950X",
+        "speed": {
+            "value": 4.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "1KUHXRTSQS",
+        "title": "AMD Ryzen 9 3900X 12-core, 24-thread Unlocked Desktop Processor With Wraith Prism LED Cooler",
+        "link": "https://amazon.com/dp/B07SXMZLP9?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51MmCrGECmL._SL1500_.jpg",
+        "price": 375,
+        "brand": "AMD",
+        "model": "Ryzen 9 3900X",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "NMSSR6076Z",
+        "title": "Intel Core I7-13700KF Desktop Processor 16 Cores (8 P-cores + 8 E-cores) 30M Cache, Up To 5.4 GHz",
+        "link": "https://amazon.com/dp/B0BCDL7F5W?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/416aqdEq1cL._SL1500_.jpg",
+        "price": 398.96,
+        "brand": "Intel",
+        "model": "Core i7-13700KF",
+        "speed": {
+            "value": 5.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "FTAMYIBCQT",
+        "title": "Intel Core I9-12900K Desktop Processor 16 (8P+8E) Cores Up To 5.2 GHz Unlocked LGA1700 600 Series Chipset 125W",
+        "link": "https://amazon.com/dp/B09FXDLX95?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41T1ZSfJXBL._SL1500_.jpg",
+        "price": 388.6,
+        "brand": "Intel",
+        "model": "Core i9-12900K",
+        "speed": {
+            "value": 5.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "F1LI337FI9",
+        "title": "Intel Core I9 (12th Gen) I9-12900F Hexadeca-core (16 Core) 2.40 GHz Processor - Retail Pack",
+        "link": "https://amazon.com/dp/B09RPNW7CM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41i4U0opF-L._SL1500_.jpg",
+        "price": 518.83,
+        "brand": "Intel",
+        "model": "Core i9-12900F",
+        "speed": {
+            "value": 5.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "RKET51YAQQ",
+        "title": "Intel Core I9-12900KF Desktop Processor 16 (8P+8E) Cores Up To 5.2 GHz Unlocked  LGA1700 600 Series Chipset 125W",
+        "link": "https://amazon.com/dp/B09FWYK5M9?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41o4Cpdcd0L._SL1500_.jpg",
+        "price": 419.96,
+        "brand": "Intel",
+        "model": "Core i9-12900KF",
+        "speed": {
+            "value": 5.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "HHUKOOSEGF",
+        "title": "AMD Ryzen™ 7 7700X 8-Core, 16-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0BBHHT8LY?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/21dGjMeZmTL._SL1500_.jpg",
+        "price": 332.24,
+        "brand": "AMD",
+        "model": "Ryzen 7 7700X",
+        "speed": {
+            "value": 5.4,
+            "unit": "GHz"
+        },
+        "socketType": "AM5"
+    },
+    {
+        "id": "MPSAKZI9KX",
+        "title": "Intel Core I9 (12th Gen) I9-12900 Hexadeca-core (16 Core) 2.40 GHz Processor - Retail Pack",
+        "link": "https://amazon.com/dp/B09RPF28CG?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41oVoDp01EL._SL1500_.jpg",
+        "price": 541.79,
+        "brand": "Intel",
+        "model": "Core i9-12900",
+        "speed": {
+            "value": 5.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "TQGBREUTTB",
+        "title": "Intel Core I9 I9-10980XE Octadeca-core (18 Core) 3 GHz Processor - 24.75 MB Cache - 4.60 GHz Overclocking Speed - 14 Nm - 165 W - 36 Threads",
+        "link": "https://amazon.com/dp/B08DG2HRJN?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41OrmlW4ItL._SL1500_.jpg",
+        "price": 955,
+        "brand": "Intel",
+        "model": "Core i9-10980XE",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "E5N5W6PQVX",
+        "title": "AMD Ryzen 9 3900XT 12-core, 24-Threads Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B089WD454D?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51S7QN-YF2L._SL1500_.jpg",
+        "price": 564,
+        "brand": "AMD",
+        "model": "Ryzen 9 3900XT",
+        "speed": {
+            "value": 4.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "EJ4QB2VM0U",
+        "title": "Intel CPU Core I7-12700F / 12/20 / 2.1GHz / 6xxChipset / BX8071512700F",
+        "link": "https://amazon.com/dp/B09NPJDPVG?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31bCScUYozL._SL1500_.jpg",
+        "price": 289.99,
+        "brand": "Intel",
+        "model": "Core i7-12700F",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "0U3GFE22BO",
+        "title": "Intel Core I9-9980XE Extreme Edition Processor 18 Cores Up To 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors (999AD1)",
+        "link": "https://amazon.com/dp/B07JGCMQY8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41BUy1mVMyL._SL1500_.jpg",
+        "price": 1400,
+        "brand": "Intel",
+        "model": "Core i9-9980XE",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "OSCSFIXVKE",
+        "title": "Intel Core I7 (12th Gen) I7-12700 Dodeca-core (12 Core) 2.10 GHz Processor - Retail Pack",
+        "link": "https://amazon.com/dp/B09NPHHSZ1?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31bCScUYozL._SL1500_.jpg",
+        "price": 325.79,
+        "brand": "Intel",
+        "model": "Core i7-12700",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "WCUOUV9MYC",
+        "title": "AMD YD299XAZAFWOF Ryzen Threadripper 2990WX Processor",
+        "link": "https://amazon.com/dp/B07G25SD1P?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41-vnHIk0lL._SL1500_.jpg",
+        "price": 2998.95,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 2990WX",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "sTR4"
+    },
+    {
+        "id": "Q5YKUJUREA",
+        "title": "Intel BX80673I99960X Core I9-9960X X-Series Processor 16 Cores Up To 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors (999AC7)",
+        "link": "https://amazon.com/dp/B07JDV1QDG?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Bf-kFYvRL._SL1500_.jpg",
+        "price": 1600,
+        "brand": "Intel",
+        "model": "Core i9-9960X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "YQJUMCBQKD",
+        "title": "Intel Core I7-12700KF Desktop Processor 12 (8P+4E) Cores Up To 5.0 GHz Unlocked  LGA1700 600 Series Chipset 125W",
+        "link": "https://amazon.com/dp/B09FXKHN7M?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31raHAgvNiL._SL1500_.jpg",
+        "price": 276.81,
+        "brand": "Intel",
+        "model": "Core i7-12700KF",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "2S4LVARRBK",
+        "title": "Intel Core I7-12700K Desktop Processor 12 (8P+4E) Cores Up To 5.0 GHz Unlocked  LGA1700 600 Series Chipset 125W",
+        "link": "https://amazon.com/dp/B09FXNVDBJ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31raHAgvNiL._SL1500_.jpg",
+        "price": 280,
+        "brand": "Intel",
+        "model": "Core i7-12700K",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "NRAW84I3WV",
+        "title": "AMD Ryzen Threadripper 2950X Processor (YD295XA8AFWOF)",
+        "link": "https://amazon.com/dp/B07GFN6CVF?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41PpwEHzHOL._SL1500_.jpg",
+        "price": 899.95,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 2950X",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "sTR4"
+    },
+    {
+        "id": "PN7JSLSVZL",
+        "title": "Intel BX80673I97980X Core I9-7980XE Processors",
+        "link": "https://amazon.com/dp/B075XRYMDR?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41NTcG-1lbL._SL1500_.jpg",
+        "price": 1200,
+        "brand": "Intel",
+        "model": "Core i9-7980XE",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "XCOLSVPEWQ",
+        "title": "Intel Core I9-10940X Desktop Processor 14 Cores Up To 4.8GHz Unlocked LGA2066 X299 Series 165W, BX8069510940X",
+        "link": "https://amazon.com/dp/B07YP67PFV?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41W3FebDGuL._SL1500_.jpg",
+        "price": 910.99,
+        "brand": "Intel",
+        "model": "Core i9-10940X",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "OJPJFPLVAP",
+        "title": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0815XFSGK?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41dfzlmwdNL._SL1500_.jpg",
+        "price": 236,
+        "brand": "AMD",
+        "model": "Ryzen 7 5800X",
+        "speed": {
+            "value": 4.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "QOEV2OSC7L",
+        "title": "AMD Ryzen™ 5 7600X 6-Core, 12-Thread Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B0BBJDS62N?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/21481fE-o+L._SL1500_.jpg",
+        "price": 246,
+        "brand": "AMD",
+        "model": "Ryzen 5 7600X",
+        "speed": {
+            "value": 5.3,
+            "unit": "GHz"
+        },
+        "socketType": "AM5"
+    },
+    {
+        "id": "WCFUF5GD0T",
+        "title": "Intel Core I9-9940X X-Series Processor 14 Cores Up To 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors (999AC9)",
+        "link": "https://amazon.com/dp/B07JFH771Y?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Bf-kFYvRL._SL1500_.jpg",
+        "price": 849.99,
+        "brand": "Intel",
+        "model": "Core i9-9940X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "OUUS8HB7UQ",
+        "title": "Intel Core I9-7960X X-Series Processor 16 Cores Up To 4.2 GHz Turbo Unlocked LGA2066 X299 Series 165W",
+        "link": "https://amazon.com/dp/B075XRYMDS?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51V2PWtMutL._SL1500_.jpg",
+        "price": 690,
+        "brand": "Intel",
+        "model": "Core i9-7960X",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "WPOC86K2HO",
+        "title": "AMD YD195XA8AEWOF Ryzen Threadripper 1950X (16-core/32-thread) Desktop Processor",
+        "link": "https://amazon.com/dp/B074CBH3R4?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51hzN4DjiDL._SL1500_.jpg",
+        "price": 594.25,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 1950X",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "sTR4"
+    },
+    {
+        "id": "VFX2DKU16C",
+        "title": "Intel Core I9-7940X X-Series Processor 14 Cores Up To 4.3 GHz Turbo Unlocked LGA2066 X299 Series 165W",
+        "link": "https://amazon.com/dp/B076KXLR6K?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51jVF96A0XL._SL1500_.jpg",
+        "price": 610,
+        "brand": "Intel",
+        "model": "Core i9-7940X",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "9QFVILQWFV",
+        "title": "AMD YD297XAZAFWOF Ryzen Threadripper 2970WX 24 Core, 48 Thread Processor, Pack Of 1",
+        "link": "https://amazon.com/dp/B07JBQJ1D9?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Czg9goFbL._SL1500_.jpg",
+        "price": 1149,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 2970WX",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "sTR4"
+    },
+    {
+        "id": "VY3R5NL5SR",
+        "title": "Intel Core I9-10920X Desktop Processor 12 Cores Up To 4.8GHz Unlocked LGA2066 X299 Series 165W",
+        "link": "https://amazon.com/dp/B07YP6Y9VY?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41QrE16ESEL._SL1500_.jpg",
+        "price": 623.9,
+        "brand": "Intel",
+        "model": "Core i9-10920X",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "LSOCHFHJFI",
+        "title": "Intel Core I9-11900K Desktop Processor 8 Cores Up To 5.3 GHz Unlocked LGA1200 (Intel 500 Series & Select 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B08X6PPTTH?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41vTd42zgEL._SL1500_.jpg",
+        "price": 382.15,
+        "brand": "Intel",
+        "model": "Core i9-11900K",
+        "speed": {
+            "value": 5.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "VSXVWTKN4F",
+        "title": "Intel Core I9-9920X X-Series Processor 12 Cores Up To 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors (999AC6)",
+        "link": "https://amazon.com/dp/B07JGCV5KN?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Bf-kFYvRL._SL1500_.jpg",
+        "price": 635,
+        "brand": "Intel",
+        "model": "Core i9-9920X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "ZFSWC8CKFJ",
+        "title": "AMD YD292XA8AFWOF Ryzen Threadripper 2920X (12-Core/24-Thread) Processor 4.3 GHz Max Boost 38MB Cache",
+        "link": "https://amazon.com/dp/B07JDF4QP2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/412uGs8dJhL._SL1500_.jpg",
+        "price": 977,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 2920X",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "sTR4"
+    },
+    {
+        "id": "KDFWQXW2Z1",
+        "title": "Intel® Core™ I7-11700K Desktop Processor 8 Cores Up To 5.0 GHz Unlocked LGA1200 (Intel 500 Series & Select 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B08X6ND3WP?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41ssEaIeMyL._SL1500_.jpg",
+        "price": 274.52,
+        "brand": "Intel",
+        "model": "Core i7-11700K",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "IJTJQTNZBX",
+        "title": "Intel Core I5-12600KF Desktop Processor 10 (6P+4E) Cores Up To 4.9 GHz Unlocked  LGA1700 600 Series Chipset 125W",
+        "link": "https://amazon.com/dp/B09FXFJW2F?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41HVnW3YEAL._SL1500_.jpg",
+        "price": 243.95,
+        "brand": "Intel",
+        "model": "Core i5-12600KF",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "ZDTOU0TSQZ",
+        "title": "Intel® Core™ I9-11900KF Desktop Processor 8 Cores Up To 5.3 GHz Unlocked LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B08X6KQSZ1?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41J8zxAQgeL._SL1500_.jpg",
+        "price": 329.58,
+        "brand": "Intel",
+        "model": "Core i9-11900KF",
+        "speed": {
+            "value": 5.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "SXL7STHNCA",
+        "title": "AMD Ryzen 7 5700G 8-Core, 16-Thread Unlocked Desktop Processor With Radeon Graphics",
+        "link": "https://amazon.com/dp/B091J3NYVF?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31xNfcDcTBL._SL1500_.jpg",
+        "price": 178,
+        "brand": "AMD",
+        "model": "Ryzen 7 5700G",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "LXLPU62I4D",
+        "title": "Intel Core I5-12600K Desktop Processor 10 (6P+4E) Cores Up To 4.9 GHz Unlocked  LGA1700 600 Series Chipset 125W",
+        "link": "https://amazon.com/dp/B09FX4D72T?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41qFu2kJ7nL._SL1500_.jpg",
+        "price": 228.98,
+        "brand": "Intel",
+        "model": "Core i5-12600K",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "PRD3HOFTH5",
+        "title": "AMD Ryzen 7 3800XT 8-core, 16-Threads Unlocked Desktop Processor",
+        "link": "https://amazon.com/dp/B089WCXZJC?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41DJovMgc3L._SL1500_.jpg",
+        "price": 450,
+        "brand": "AMD",
+        "model": "Ryzen 7 3800XT",
+        "speed": {
+            "value": 4.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "W20JLY8SED",
+        "title": "Intel Core I9-10900K Desktop Processor 10 Cores Up To 5.3 GHz Unlocked  LGA1200 (Intel 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B086MHSTVD?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41MI611RvgL._SL1500_.jpg",
+        "price": 363.49,
+        "brand": "Intel",
+        "model": "Core i9-10900K",
+        "speed": {
+            "value": 5.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "NPSWZDY01Q",
+        "title": "Intel® Core™ I7-11700KF Desktop Processor 8 Cores Up To 5.0 GHz Unlocked LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B08X6NXNX7?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41lmdWG4IHL._SL1500_.jpg",
+        "price": 296.62,
+        "brand": "Intel",
+        "model": "Core i7-11700KF",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "TEUE9KTT3D",
+        "title": "Intel Core I9-10900KF Desktop Processor 10 Cores Up To 5.3 GHz Unlocked Without Processor Graphics LGA1200 (Intel 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B086MG1C7D?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41grpwhp8hL._SL1500_.jpg",
+        "price": 369.23,
+        "brand": "Intel",
+        "model": "Core i9-10900KF",
+        "speed": {
+            "value": 5.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "GWP1VXVR0U",
+        "title": "Intel Core I9-7920X X-Series Processor 12 Cores Up To 4.3 GHz Turbo Unlocked LGA2066 X299 Series 140W",
+        "link": "https://amazon.com/dp/B0756L5T93?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51KFxNGHrAL._SL1500_.jpg",
+        "price": 530,
+        "brand": "Intel",
+        "model": "Core i9-7920X",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "008VE01C2I",
+        "title": "Intel® Core™ I9-10850K Desktop Processor 10 Cores Up To 5.2 GHz Unlocked LGA1200 (Intel® 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B08DHRG2X9?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51-si8jdlbL._SL1500_.jpg",
+        "price": 299.98,
+        "brand": "Intel",
+        "model": "Core i9-10850K",
+        "speed": {
+            "value": 5.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "ADWB242LCI",
+        "title": "AMD Ryzen 7 3800X 8-Core, 16-Thread Unlocked Desktop Processor With Wraith Prism LED Cooler",
+        "link": "https://amazon.com/dp/B07SXMZLPJ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Sy0u20cuL._SL1500_.jpg",
+        "price": 251.99,
+        "brand": "AMD",
+        "model": "Ryzen 7 3800X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "RKET45A6EV",
+        "title": "Intel Core I9-10900X Desktop Processor 10 Cores Up To 4.7GHz Unlocked LGA2066 X299 Series 165W (BX8069510900X)",
+        "link": "https://amazon.com/dp/B07YP69HTM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41W3FebDGuL._SL1500_.jpg",
+        "price": 515,
+        "brand": "Intel",
+        "model": "Core i9-10900X",
+        "speed": {
+            "value": 4.7,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "SOUZTYCAWY",
+        "title": "Intel® Core™ I9-11900F Desktop Processor 8 Cores Up To 5.2 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X6KFM3N?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/411QI+O6z-L._SL1500_.jpg",
+        "price": 448.99,
+        "brand": "Intel",
+        "model": "Core i9-11900F",
+        "speed": {
+            "value": 5.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "HZBNCXMV19",
+        "title": "Intel® Core™ I9-11900 Desktop Processor 8 Cores Up To 5.2 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X5XVLL9?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41JujFtTONL._SL1500_.jpg",
+        "price": 399.99,
+        "brand": "Intel",
+        "model": "Core i9-11900",
+        "speed": {
+            "value": 5.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "DDHOFAFIT3",
+        "title": "AMD Ryzen Threadripper 1920X (12-Core/24-Thread) Desktop Processor (YD192XA8AEWOF)",
+        "link": "https://amazon.com/dp/B074CBJHCT?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/5149290vQyL._SL1500_.jpg",
+        "price": 279.99,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 1920X",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "sTR4"
+    },
+    {
+        "id": "DY2SMJJXMC",
+        "title": "AMD Ryzen 7 3700X 8-Core, 16-Thread Unlocked Desktop Processor With Wraith Prism LED Cooler",
+        "link": "https://amazon.com/dp/B07SXMZLPK?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51wpN1SESrL._SL1500_.jpg",
+        "price": 265,
+        "brand": "AMD",
+        "model": "Ryzen 7 3700X",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "WEHGCIAYVT",
+        "title": "AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor With Wraith Stealth Cooler",
+        "link": "https://amazon.com/dp/B08166SLDF?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41C9K91sLhL._SL1500_.jpg",
+        "price": 179.4,
+        "brand": "AMD",
+        "model": "Ryzen 5 5600X",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "L0DTGCY9XT",
+        "title": "Intel Core I9-9900X X-Series Processor 10 Cores Up To 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors (999AC5)",
+        "link": "https://amazon.com/dp/B07JDV1MMR?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Bf-kFYvRL._SL1500_.jpg",
+        "price": 595.29,
+        "brand": "Intel",
+        "model": "Core i9-9900X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "JMIFG8JJTE",
+        "title": "Intel Core I9-7900X X-Series Processor 10 Cores Up To 4.3 GHz Turbo Unlocked LGA2066 X299 Series 140W",
+        "link": "https://amazon.com/dp/B072KTSCCS?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51-ce8HWCLL._SL1500_.jpg",
+        "price": 425,
+        "brand": "Intel",
+        "model": "Core i9-7900X",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "TYIEFM0X05",
+        "title": "Intel Core I5 I5-12600 3.30 GHz Processor - Retail Pack",
+        "link": "https://amazon.com/dp/B09MSLG944?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41iWlRI7ZHL._SL1500_.jpg",
+        "price": 273.5,
+        "brand": "Intel",
+        "model": "Core i5-12600",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "XBVVUF1PS2",
+        "title": "Intel® Core™ I7-11700F Desktop Processor 8 Cores Up To 4.9 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X6V4WTF?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41+om7ejntL._SL1500_.jpg",
+        "price": 259.98,
+        "brand": "Intel",
+        "model": "Core i7-11700F",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "RB4DSC9ZJD",
+        "title": "Intel® Core™ I7-11700 Desktop Processor 8 Cores Up To 4.9 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X6QHYDL?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/412EyTzSLpL._SL1500_.jpg",
+        "price": 284.76,
+        "brand": "Intel",
+        "model": "Core i7-11700",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "8YBOA6MEWS",
+        "title": "Intel Core I9-10900F Desktop Processor 10 Cores Up To 5.2 GHz Without Processor Graphics LGA 1200 (Intel 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B086MHTK5C?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41ckT1AzbYL._SL1500_.jpg",
+        "price": 432.99,
+        "brand": "Intel",
+        "model": "Core i9-10900F",
+        "speed": {
+            "value": 5.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "EHHZWSFBKD",
+        "title": "Intel Core I9-10900 Desktop Processor 10 Cores Up To 5.2 GHz LGA 1200 (Intel 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B086ML4XSD?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Y3oA9UHnL._SL1500_.jpg",
+        "price": 458.19,
+        "brand": "Intel",
+        "model": "Core i9-10900",
+        "speed": {
+            "value": 5.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "GLU4TYAGQ2",
+        "title": "Intel Core I9-9820X X-Series Processor 10 Cores Up To 4.1GHz Turbo Unlocked LGA2066 X299 Series 165W",
+        "link": "https://amazon.com/dp/B07KCCH7JL?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Bf-kFYvRL._SL1500_.jpg",
+        "price": 540,
+        "brand": "Intel",
+        "model": "Core i9-9820X",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "CUBPFFNB1T",
+        "title": "Intel Core I5 (12th Gen) I5-12500 3 GHz Processor - Retail Pack",
+        "link": "https://amazon.com/dp/B09MSJ29RP?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31a27fdtOPL._SL1500_.jpg",
+        "price": 249.18,
+        "brand": "Intel",
+        "model": "Core i5-12500",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "XT6UCNV0PO",
+        "title": "Intel® Core™ I5-11600KF Desktop Processor 6 Cores Up To 4.9 GHz Unlocked LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B08X62BTJD?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41AJtg10kAL._SL1500_.jpg",
+        "price": 227.95,
+        "brand": "Intel",
+        "model": "Core i5-11600KF",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "2JG8KV9O4K",
+        "title": "Intel® Core™ I5-11600K Desktop Processor 6 Cores Up To 4.9 GHz Unlocked LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B08X67YZBL?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41cGF0yoN+L._SL1500_.jpg",
+        "price": 224.92,
+        "brand": "Intel",
+        "model": "Core i5-11600K",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "HIYMVR0ZWW",
+        "title": "AMD Ryzen 5 5600G 6-Core 12-Thread Unlocked Desktop Processor With Radeon Graphics",
+        "link": "https://amazon.com/dp/B092L9GF5N?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41zJyZ5o8aL._SL1500_.jpg",
+        "price": 110.24,
+        "brand": "AMD",
+        "model": "Ryzen 5 5600G",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "SWFFDVAQRS",
+        "title": "Intel Core I5 Core 12400F Desktop Processor 18M Cache, Up To 4.40 GHz",
+        "link": "https://amazon.com/dp/B09NPJRDGD?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31AyiuPuqnL._SL1500_.jpg",
+        "price": 147,
+        "brand": "Intel",
+        "model": "Core i5-12400F",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "JP9VBWWD97",
+        "title": "Intel Core I7-10700K Desktop Processor 8 Cores Up To 5.1 GHz Unlocked LGA1200 (Intel 400 Series Chipset) 125W (BX8070110700K)",
+        "link": "https://amazon.com/dp/B086ML4XSB?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41AG-t5KLoL._SL1500_.jpg",
+        "price": 291.99,
+        "brand": "Intel",
+        "model": "Core i7-10700K",
+        "speed": {
+            "value": 5.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "YRVID1FKHH",
+        "title": "Intel Core I5-12400 Desktop Processor 18M Cache, Up To 4.40 GHz",
+        "link": "https://amazon.com/dp/B09NMPD8V2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41L6pSYUYML._SL1500_.jpg",
+        "price": 182,
+        "brand": "Intel",
+        "model": "Core i5-12400",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "4DDLWMPYQV",
+        "title": "Intel Core I9-9900KS Desktop Processor 8 Cores Up To 5.0GHz All-Core Turbo Unlocked LGA1151 Z390 127W",
+        "link": "https://amazon.com/dp/B07YP3J7ZM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41hseec4jjL._SL1500_.jpg",
+        "price": 1989,
+        "brand": "Intel",
+        "model": "Core i9-9900KS",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "SXCFWYRPVK",
+        "title": "Intel Core I7-10700KF 3.80GHz LGA1200 Socket 125 Watt",
+        "link": "https://amazon.com/dp/B0883NG13L?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41upmDfRlzL._SL1500_.jpg",
+        "price": 292.79,
+        "brand": "Intel",
+        "model": "Core i7-10700KF",
+        "speed": {
+            "value": 5.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "BMKJZLLJKZ",
+        "title": "AMD Ryzen 5 3600XT 6-core, 12-threads Unlocked Desktop Processor With Wraith Spire Cooler",
+        "link": "https://amazon.com/dp/B089WC4VWF?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41BgNBildJL._SL1500_.jpg",
+        "price": 295,
+        "brand": "AMD",
+        "model": "Ryzen 5 3600XT",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "HTBKXP7KMU",
+        "title": "Intel Core I9-9900K Desktop Processor 8 Cores Up To 5.0 GHz Turbo Unlocked LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B005404P9I?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51pSm7LQLML._SL1500_.jpg",
+        "price": 769.05,
+        "brand": "Intel",
+        "model": "Core i9-9900K",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "KB3ELFNERP",
+        "title": "Intel BX80684I99900KF Intel Core I9-9900KF Desktop Processor 8 Cores Up To 5.0 GHz Turbo Unlocked Without Processor Graphics LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B07MGBZWDZ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41asvsykHwL._SL1500_.jpg",
+        "price": 440,
+        "brand": "Intel",
+        "model": "Core i9-9900KF",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "P4G4PYFLBS",
+        "title": "Intel® Core™ I5-11600 Desktop Processor 6 Cores Up To 4.8 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X5XWNTB?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41bNJpVoKtL._SL1500_.jpg",
+        "price": 263.98,
+        "brand": "Intel",
+        "model": "Core i5-11600",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "UQLQL75RJC",
+        "title": "AMD Ryzen 5 3600X 6-Core, 12-Thread Unlocked Desktop Processor With Wraith Spire Cooler",
+        "link": "https://amazon.com/dp/B07SQBFN2D?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41pp9uuzuJL._SL1500_.jpg",
+        "price": 230,
+        "brand": "AMD",
+        "model": "Ryzen 5 3600X",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "9THGVS6ISS",
+        "title": "Intel Core I7-9800X X-Series Processor 8 Cores Up To 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors (999AC3)",
+        "link": "https://amazon.com/dp/B07JGCSMJX?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/415yuU6DjDL._SL1500_.jpg",
+        "price": 585,
+        "brand": "Intel",
+        "model": "Core i7-9800X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "AA0QQFUILB",
+        "title": "Intel® Core™ I5-11400F Desktop Processor 6 Cores Up To 4.4 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X6SZ184?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41cGF0yoN+L._SL1500_.jpg",
+        "price": 132.96,
+        "brand": "Intel",
+        "model": "Core i5-11400F",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "SVVN3PSJVH",
+        "title": "AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor With Wraith Stealth Cooler",
+        "link": "https://amazon.com/dp/B07STGGQ18?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41m+krxXiBL._SL1500_.jpg",
+        "price": 111.44,
+        "brand": "AMD",
+        "model": "Ryzen 5 3600",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "KMZEKOTSBZ",
+        "title": "Intel® Core™ I5-11400 Desktop Processor 6 Cores Up To 4.4 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X6JPK4K?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41cGF0yoN+L._SL1500_.jpg",
+        "price": 149.64,
+        "brand": "Intel",
+        "model": "Core i5-11400",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "SS2QJZNKPQ",
+        "title": "Intel® Core™ I5-11500 Desktop Processor 6 Cores Up To 4.6 GHz LGA1200 (Intel® 500 Series & Select 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B08X6BCPGD?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41zr9nI5lJL._SL1500_.jpg",
+        "price": 195,
+        "brand": "Intel",
+        "model": "Core i5-11500",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "NWFMGKG8ZT",
+        "title": "AMD Ryzen 7 2700X Processor With Wraith Prism LED Cooler - YD270XBGAFBOX",
+        "link": "https://amazon.com/dp/B07B428M7F?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31972ZrX21L._SL1500_.jpg",
+        "price": 230,
+        "brand": "AMD",
+        "model": "Ryzen 7 2700X",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "WLDHOTVOPJ",
+        "title": "Intel Core I7-10700 Desktop Processor 8 Cores Up To 4.8 GHz LGA 1200 (Intel 400 Series Chipset) 65W, BX8070110700",
+        "link": "https://amazon.com/dp/B086MG1C7C?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41gUkbr3eLL._SL1500_.jpg",
+        "price": 265.94,
+        "brand": "Intel",
+        "model": "Core i7-10700",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "YLXXCUQNMY",
+        "title": "Intel Core I7-7820X X-Series Processor 8 Cores Up To 4.3 GHz Turbo Unlocked LGA2066 X299 Series 140W",
+        "link": "https://amazon.com/dp/B072NF4BY3?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51EV6ZfSXnL._SL1500_.jpg",
+        "price": 448.88,
+        "brand": "Intel",
+        "model": "Core i7-7820X",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "VESOEXYSBR",
+        "title": "Intel Core I7-10700F Comet Lake 2.9GHz 16MB Smart Cache CPU Desktop Processor Boxed",
+        "link": "https://amazon.com/dp/B0883MBXZ7?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41P4d+8jqLL._SL1500_.jpg",
+        "price": 247.99,
+        "brand": "Intel",
+        "model": "Core i7-10700F",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "BI5Z3OUIRQ",
+        "title": "Intel Core I9-9900 Desktop Processor 8 Cores Up To 5.0GHz LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07RXX3Y2T?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51MHsgeKLvL._SL1500_.jpg",
+        "price": 399.99,
+        "brand": "Intel",
+        "model": "Core i9-9900",
+        "speed": {
+            "value": 5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "FLMZNEDCZF",
+        "title": "Intel BX80671I76950X Boxed Core I7-6950X Processor Extreme Edition (25M Cache, Up To 3.50 GHz) 3.0 10",
+        "link": "https://amazon.com/dp/B01FJLA9IM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51xql2lzYgL._SL1500_.jpg",
+        "price": 347.05,
+        "brand": "Intel",
+        "model": "Core i7-6950X",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2011"
+    },
+    {
+        "id": "F04INX6SJP",
+        "title": "AMD YD190XA8AEWOF Ryzen Threadripper 1900X (8-core/16-thread) Desktop Processor",
+        "link": "https://amazon.com/dp/B0754JNQBP?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51MAMyC6GzL._SL1500_.jpg",
+        "price": 179.99,
+        "brand": "AMD",
+        "model": "Ryzen Threadripper 1900X",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "sTR4"
+    },
+    {
+        "id": "NR136QL74C",
+        "title": "AMD YD180XBCAEWOF Ryzen 7 1800X Processor",
+        "link": "https://amazon.com/dp/B06W9JXK4G?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41lmPSEZKpL._SL1500_.jpg",
+        "price": 198.87,
+        "brand": "AMD",
+        "model": "Ryzen 7 1800X",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "AS5CZ6BOQY",
+        "title": "AMD Ryzen 7 2700 Processor With Wraith Spire LED Cooler - YD2700BBAFBOX",
+        "link": "https://amazon.com/dp/B07B41717Z?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41IIPxvjgnL._SL1500_.jpg",
+        "price": 220,
+        "brand": "AMD",
+        "model": "Ryzen 7 2700",
+        "speed": {
+            "value": 4.1,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "POXVSMPDW8",
+        "title": "AMD Ryzen™ 5 4600G, 6-Core, 12-Thread Unlocked Desktop Processor With Wraith Stealth Cooler",
+        "link": "https://amazon.com/dp/B09Z5NH6SJ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41yV5DFpvAL._SL1500_.jpg",
+        "price": 99.74,
+        "brand": "AMD",
+        "model": "Ryzen 5 4600G",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "XSST8GKG29",
+        "title": "Intel Core I5-10600K Desktop Processor 6 Cores Up To 4.8 GHz Unlocked  LGA1200 (Intel 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B086MHSH2C?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41uyqXSUMtL._SL1500_.jpg",
+        "price": 185.94,
+        "brand": "Intel",
+        "model": "Core i5-10600K",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "1AA7PHJMYL",
+        "title": "Intel BX80684I79700KF Intel Core I7-9700KF Desktop Processor 8 Cores Up To 4.9 GHz Turbo Unlocked Without Processor Graphics LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B07MJXYX62?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41bcJWJLZ1L._SL1500_.jpg",
+        "price": 477.99,
+        "brand": "Intel",
+        "model": "Core i7-9700KF",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "Q9CZDRWZID",
+        "title": "Intel Core I7-9700K Desktop Processor 8 Cores Up To 3.6 GHz Turbo Unlocked LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B07HHN6KBZ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41i6RHrHrGL._SL1500_.jpg",
+        "price": 422,
+        "brand": "Intel",
+        "model": "Core i7-9700K",
+        "speed": {
+            "value": 4.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "9WBGTNHGUG",
+        "title": "Intel® Core™ I5-10600KF Desktop Processor 6 Cores Up To 4.8 GHz Unlocked Without Processor Graphics LGA 1200 (Intel® 400 Series Chipset) 125W",
+        "link": "https://amazon.com/dp/B086M8441R?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41EEzb8fIjL._SL1500_.jpg",
+        "price": 199.99,
+        "brand": "Intel",
+        "model": "Core i5-10600KF",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "EVFZAYG2DD",
+        "title": "AMD YD1700BBAEBOX Ryzen 7 1700 Processor With Wraith Spire LED Cooler",
+        "link": "https://amazon.com/dp/B06WP5YCX6?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41WU+432f+L._SL1500_.jpg",
+        "price": 240,
+        "brand": "AMD",
+        "model": "Ryzen 7 1700",
+        "speed": {
+            "value": 3.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "7PF7VZCXXK",
+        "title": "INTEL CORE I3-12100F DESKTOP",
+        "link": "https://amazon.com/dp/B09NPJX7PV?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41MO1qkT+FL._SL1500_.jpg",
+        "price": 110.99,
+        "brand": "Intel",
+        "model": "Core i3-12100F",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "GJKR0VQLUT",
+        "title": "Intel Core I3 (12th Gen) I3-12100 Quad-core (4 Core) 3.30 GHz Processor - Retail Pack",
+        "link": "https://amazon.com/dp/B09NPHJLPT?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41ccQyvoAzL._SL1500_.jpg",
+        "price": 132.99,
+        "brand": "Intel",
+        "model": "Core i3-12100",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1700"
+    },
+    {
+        "id": "87KX4L0LL2",
+        "title": "Intel Core I5-10600 (base Stroke: 3.30GHz; Socket: LGA1200; 65 Watt) Box",
+        "link": "https://amazon.com/dp/B0883PYCB7?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41F53BqjpJL._SL1500_.jpg",
+        "price": 267.51,
+        "brand": "Intel",
+        "model": "Core i5-10600",
+        "speed": {
+            "value": 4.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "PPFF4E0JQI",
+        "title": "AMD Ryzen 5 2600X Processor With Wraith Spire Cooler - YD260XBCAFBOX",
+        "link": "https://amazon.com/dp/B07B428V2L?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41OZu6uDTCL._SL1500_.jpg",
+        "price": 199,
+        "brand": "AMD",
+        "model": "Ryzen 5 2600X",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "8MAM7LB3R4",
+        "title": "Intel Core I7-8700K Desktop Processor 6 Cores Up To 4.7GHz Turbo Unlocked LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B07598VZR8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41WTiL+nHjL._SL1500_.jpg",
+        "price": 333.02,
+        "brand": "Intel",
+        "model": "Core i7-8700K",
+        "speed": {
+            "value": 4.7,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "342GDNBDUG",
+        "title": "Intel Core I7-9700 Desktop Processor 8 Cores Up To 4.7 GHz LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07S6CRLVD?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41xf428iwSL._SL1500_.jpg",
+        "price": 399,
+        "brand": "Intel",
+        "model": "Core i7-9700",
+        "speed": {
+            "value": 4.7,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "ESWDY2LGD6",
+        "title": "Intel Core I5-10500 Desktop Processor 6 Cores Up To 4.5 GHz LGA1200 (Intel 400 Series Chipset) 65W, Model Number: BX8070110500",
+        "link": "https://amazon.com/dp/B086MW76DW?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41F53BqjpJL._SL1500_.jpg",
+        "price": 228.99,
+        "brand": "Intel",
+        "model": "Core i5-10500",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "7CQTA16YWM",
+        "title": "AMD Ryzen 5 2600 Processor With Wraith Stealth Cooler - YD2600BBAFBOX",
+        "link": "https://amazon.com/dp/B07B41WS48?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51WL82WyKKL._SL1500_.jpg",
+        "price": 190,
+        "brand": "AMD",
+        "model": "Ryzen 5 2600",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "ROJBRQP3BH",
+        "title": "Intel Core I7-8700 Desktop Processor 6 Cores Up To 4.6 GHz LGA 1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07598HLB4?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/414fbCWZOpL._SL1500_.jpg",
+        "price": 330,
+        "brand": "Intel",
+        "model": "Core i7-8700",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "UKPKYODYCH",
+        "title": "AMD Ryzen 5 1600X Processor (YD160XBCAEWOF)",
+        "link": "https://amazon.com/dp/B06XKWT7GD?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Rx5OADsKL._SL1500_.jpg",
+        "price": 160,
+        "brand": "AMD",
+        "model": "Ryzen 5 1600X",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "LCDI8XGBJQ",
+        "title": "Intel Core I5-10400 Desktop Processor 6 Cores Up To 4.3 GHz  LGA1200 (Intel 400 Series Chipset) 65W, Model Number: BX8070110400",
+        "link": "https://amazon.com/dp/B086MN38Q2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41xhN2i6bbL._SL1500_.jpg",
+        "price": 124.9,
+        "brand": "Intel",
+        "model": "Core i5-10400",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "K8VHGVFUSU",
+        "title": "AMD Ryzen 3 3300X 4-Core, 8-Thread Unlocked Desktop Processor With Wraith Stealth Cooler",
+        "link": "https://amazon.com/dp/B0876YS2T4?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41S3kMzWthL._SL1500_.jpg",
+        "price": 235,
+        "brand": "AMD",
+        "model": "Ryzen 3 3300X",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "TDG7VUXEVT",
+        "title": "Intel Core I5-10400F Desktop Processor 6 Cores Up To 4.3 GHz Without Processor Graphics LGA1200 (Intel 400 Series Chipset) 65W, Model Number: BX8070110400F",
+        "link": "https://amazon.com/dp/B086MHSTWN?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41p6bICWzBL._SL1500_.jpg",
+        "price": 111.38,
+        "brand": "Intel",
+        "model": "Core i5-10400F",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "U9E5BSDAGY",
+        "title": "Intel Core I7-7800X X-Series Processor 6 Cores Up To 4.0 GHz Turbo Unlocked LGA2066 X299 Series 140W",
+        "link": "https://amazon.com/dp/B071H1B3Z1?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51RBZAup9fL._SL1500_.jpg",
+        "price": 389.88,
+        "brand": "Intel",
+        "model": "Core i7-7800X",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "ODCRG1HMG5",
+        "title": "AMD Ryzen 5 1600 65W AM4 Processor With Wraith Stealth Cooler (YD1600BBAFBOX)",
+        "link": "https://amazon.com/dp/B07XTQZJ28?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41bRPzv9FkL._SL1500_.jpg",
+        "price": 165,
+        "brand": "AMD",
+        "model": "Ryzen 5 1600",
+        "speed": {
+            "value": 3.6,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "Q2IWEBMKEZ",
+        "title": "AMD Ryzen 3 3100 4-Core, 8-Thread Unlocked Desktop Processor With Wraith Stealth Cooler",
+        "link": "https://amazon.com/dp/B0876Y2TMZ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41S3kMzWthL._SL1500_.jpg",
+        "price": 139.99,
+        "brand": "AMD",
+        "model": "Ryzen 3 3100",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "XYLOXMFQT5",
+        "title": "Intel Boxed Core I7-6850K Processor (15M Cache, Up To 3.80 GHz) FC-LGA14A 3.6 6 BX80671I76850K",
+        "link": "https://amazon.com/dp/B01FJLAITC?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/518PebG+kzL._SL1500_.jpg",
+        "price": 219.99,
+        "brand": "Intel",
+        "model": "Core i7-6850K",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2011"
+    },
+    {
+        "id": "MFHHEFP6Q0",
+        "title": "Intel Boxed Core I7-6900K Processor (20MB Cache, Up To 3.70 GHz) FC-LGA 2011-v3,BX80671I76900K",
+        "link": "https://amazon.com/dp/B01FJLAIG0?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/518PebG+kzL._SL1500_.jpg",
+        "price": 162.4,
+        "brand": "Intel",
+        "model": "Core i7-6900K",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2011"
+    },
+    {
+        "id": "LEJLH29JGC",
+        "title": "Intel Core I5-9600 Desktop Processor 6 Cores Up To 4.6 GHz LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07S1Q396F?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/416kzzc2KiL._SL1500_.jpg",
+        "price": 294.88,
+        "brand": "Intel",
+        "model": "Core i5-9600",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "YJQA4RSXQN",
+        "title": "Intel Core I5-9600KF Desktop Processor 6 Cores Up To 4.6 GHz Turbo Unlocked Without Processor Graphics LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B07MQP5LNM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51OPrlQL-9L._SL1500_.jpg",
+        "price": 230.76,
+        "brand": "Intel",
+        "model": "Core i5-9600KF",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "W3LRF3X8KE",
+        "title": "Intel Core I5-9600K Desktop Processor 6 Cores Up To 4.6 GHz Turbo Unlocked LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B07HHLX1R8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41ZUZb8cZ5L._SL1500_.jpg",
+        "price": 250,
+        "brand": "Intel",
+        "model": "Core i5-9600K",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "99I5LDN5WS",
+        "title": "Intel Boxed Core I7-6800K Processor (15M Cache, Up To 3.60 GHz) FCLGA2011-3 (BX80671I76800K)",
+        "link": "https://amazon.com/dp/B01FJLA8NI?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/518PebG+kzL._SL1500_.jpg",
+        "price": 290,
+        "brand": "Intel",
+        "model": "Core i7-6800K",
+        "speed": {
+            "value": 3.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2011"
+    },
+    {
+        "id": "72NNX8TN2Y",
+        "title": "Intel Core I5-9500F Desktop Processor 6 Core Up To 4.GHz Without Processor Graphics LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07S6CRJML?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41yMMdh5G5L._SL1500_.jpg",
+        "price": 209,
+        "brand": "Intel",
+        "model": "Core i5-9500F",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "NFICJLAMOC",
+        "title": "Intel® Core™ I3-10320 Desktop Processor 4 Cores Up To 4.6 GHz LGA1200 (Intel® 400 Series Chipset) 65W, Model Number: BX8070110320",
+        "link": "https://amazon.com/dp/B086M4KSMW?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/419h1NMeqvL._SL1500_.jpg",
+        "price": 139.98,
+        "brand": "Intel",
+        "model": "Core i3-10320",
+        "speed": {
+            "value": 4.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "XPDHCFOLU9",
+        "title": "Intel Core I5-8600K Desktop Processor 6 Cores Up To 4.3 GHz Unlocked LGA 1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B0759FKH8K?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51o1Zcb6uOL._SL1500_.jpg",
+        "price": 254.71,
+        "brand": "Intel",
+        "model": "Core i5-8600K",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "IDJAOXWQCZ",
+        "title": "Intel Core I7-7740X X-Series Processor 4 Cores Up To 4.50GHz Turbo Unlocked FCLGA2066 X299 Series 112W",
+        "link": "https://amazon.com/dp/B072KTRQ9G?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51VTdkBIXgL._SL1500_.jpg",
+        "price": 195,
+        "brand": "Intel",
+        "model": "Core i7-7740X",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "JLFH3RP9WT",
+        "title": "Intel Core I5-8600 Desktop Processor 6 Core Up To 4.3GHz Turbo LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B0793CD3V2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51hEWfqmLaL._SL1500_.jpg",
+        "price": 240.88,
+        "brand": "Intel",
+        "model": "Core i5-8600",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "ETOSOKJT02",
+        "title": "Intel Core I7-7700K Desktop Processor 4 Cores Up To 4.5 GHz Unlocked LGA 1151 100/200 Series 91W",
+        "link": "https://amazon.com/dp/B01MXSI216?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/513AOqGIczL._SL1500_.jpg",
+        "price": 375,
+        "brand": "Intel",
+        "model": "Core i7-7700K",
+        "speed": {
+            "value": 4.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "1UEXDO9BN1",
+        "title": "Intel Core I5-9400 Desktop Processor 6 Cores 2. 90 GHz Up To 4. 10 GHz Turbo LGA1151 300 Series 65W Processors BX80684I59400",
+        "link": "https://amazon.com/dp/B07MGZ9FJZ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51yvYnX3lHL._SL1500_.jpg",
+        "price": 239.99,
+        "brand": "Intel",
+        "model": "Core i5-9400",
+        "speed": {
+            "value": 4.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "J0KLKJTKXT",
+        "title": "Intel® Core™ I5-9400F Desktop Processor 6 Cores 4.1 GHz Turbo Without Graphics",
+        "link": "https://amazon.com/dp/B07MRCGQQ4?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41pQDyOIbNL._SL1500_.jpg",
+        "price": 129.99,
+        "brand": "Intel",
+        "model": "Core i5-9400F",
+        "speed": {
+            "value": 4.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "H3FI0EFO4W",
+        "title": "Intel Core I5-8500 Desktop Processor 6 Core Up To 4.1GHz Turbo LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07938SNBB?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51twvulvWdL._SL1500_.jpg",
+        "price": 260,
+        "brand": "Intel",
+        "model": "Core i5-8500",
+        "speed": {
+            "value": 4.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "YHUY4B82PD",
+        "title": "AMD Ryzen 5 3400G 4-core, 8-Thread Unlocked Desktop Processor With Radeon RX Graphics",
+        "link": "https://amazon.com/dp/B07SXNDKNM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31SW+KVa+ML._SL1500_.jpg",
+        "price": 144.49,
+        "brand": "AMD",
+        "model": "Ryzen 5 3400G",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "24COD4F52C",
+        "title": "Intel® Core™ I3-10300 Desktop Processor 4 Cores Up To 4.4 GHz  LGA1200 (Intel® 400 Series Chipset) 65W",
+        "link": "https://amazon.com/dp/B086M8V695?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/419h1NMeqvL._SL1500_.jpg",
+        "price": 149.95,
+        "brand": "Intel",
+        "model": "Core i3-10300",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "AUUDDNGXCE",
+        "title": "Intel Core I5-8400 Desktop Processor 6 Cores Up To 4.0 GHz LGA 1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B0759FGJ3Q?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51hEWfqmLaL._SL1500_.jpg",
+        "price": 179,
+        "brand": "Intel",
+        "model": "Core i5-8400",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "ADGPXHPECW",
+        "title": "Intel Core I3-10105F 4-Core Comet Lake Processor 3.70GHz 8GT/s 6MB LGA 1200 CPU Retail",
+        "link": "https://amazon.com/dp/B092CCJ2GZ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41gKojt3OHL._SL1500_.jpg",
+        "price": 79.91,
+        "brand": "Intel",
+        "model": "Core i3-10105F",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "AKTMYAXYUY",
+        "title": "AMD YD150XBBAEBOX Ryzen 5 1500X Processor With Wraith Spire Cooler",
+        "link": "https://amazon.com/dp/B06XKVNRSM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31ksTAEdwdL._SL1500_.jpg",
+        "price": 200,
+        "brand": "AMD",
+        "model": "Ryzen 5 1500X",
+        "speed": {
+            "value": 3.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "E8CXCK8OKT",
+        "title": "Intel Core I3-10100 Desktop Processor 4 Cores Up To 4.3 GHz  LGA1200 (Intel 400 Series Chipset) 65W, Model Number: BX8070110100",
+        "link": "https://amazon.com/dp/B086MMRW87?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41UFsdk1ogL._SL1500_.jpg",
+        "price": 99,
+        "brand": "Intel",
+        "model": "Core i3-10100",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "XUICHNW4WW",
+        "title": "Intel Core I7-6700K",
+        "link": "https://amazon.com/dp/B010T6DQTQ?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51A-JynzGML._SL1500_.jpg",
+        "price": 275,
+        "brand": "Intel",
+        "model": "Core i7-6700K",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "S63RGNL7QO",
+        "title": "AMD Ryzen 5 2400G Processor With Radeon RX Vega 11 Graphics - YD2400C5FBBOX",
+        "link": "https://amazon.com/dp/B079D8FD28?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31WytK+BGRL._SL1500_.jpg",
+        "price": 196.61,
+        "brand": "AMD",
+        "model": "Ryzen 5 2400G",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "LDVKZPTF9Z",
+        "title": "Intel CPU BX8070110100F Core I3-10100F / 3.6GHz / 6MB LGA1200 4C / 8T",
+        "link": "https://amazon.com/dp/B08LKJPR5X?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41FTf1HR7jL._SL1500_.jpg",
+        "price": 74,
+        "brand": "Intel",
+        "model": "Core i3-10100F",
+        "speed": {
+            "value": 4.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1200"
+    },
+    {
+        "id": "VNMCE7XN4T",
+        "title": "Intel Core I7-7700 Desktop Processor 4 Cores Up To 4.2 GHz LGA 1151 100/200 Series 65W",
+        "link": "https://amazon.com/dp/B01N0L41N7?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41GKAuFuNGL._SL1500_.jpg",
+        "price": 295,
+        "brand": "Intel",
+        "model": "Core i7-7700",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "W0MTYMTYUC",
+        "title": "Intel® Core I7-4790K, 4 Cores & 8 Threads Unlocked Desktop Processor With Intel HD Graphics 4600",
+        "link": "https://amazon.com/dp/B00KPRWAX8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51O4fyuOiUL._SL1500_.jpg",
+        "price": 245,
+        "brand": "Intel",
+        "model": "Core i7-4790K",
+        "speed": {
+            "value": 4.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1150"
+    },
+    {
+        "id": "0GG8RD8GA6",
+        "title": "Intel Boxed Core I7-6700 FC-LGA14C 3.40 GHz 8 M Processor Cache 4 LGA 1151 BX80662I76700",
+        "link": "https://amazon.com/dp/B0136JONG8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/411v0MvpCaL._SL1500_.jpg",
+        "price": 250,
+        "brand": "Intel",
+        "model": "Core i7-6700",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "JP7I9M4XVL",
+        "title": "AMD YD1400BBAEBOX Ryzen 5 1400 Processor With Wraith Stealth Cooler",
+        "link": "https://amazon.com/dp/B06XKWT8J4?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/31YLAELiLZL._SL1500_.jpg",
+        "price": 165,
+        "brand": "AMD",
+        "model": "Ryzen 5 1400",
+        "speed": {
+            "value": 3.4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "RWLALFOLLK",
+        "title": "Intel BX80677I77700T 7th Generation Core I7-7700T Processor",
+        "link": "https://amazon.com/dp/B01MS73UK2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51uuXsOGLGL._SL1500_.jpg",
+        "price": 390,
+        "brand": "Intel",
+        "model": "Core i7-7700T",
+        "speed": {
+            "value": 3.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "RIWUV4EXTJ",
+        "title": "Intel Core I7-5775C 3.3 GHz LGA1150 Processor (BX80658I75775C)",
+        "link": "https://amazon.com/dp/B00YAEA0U2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51GwIh1sfwL._SL1500_.jpg",
+        "price": 220,
+        "brand": "Intel",
+        "model": "Core i7-5775C",
+        "speed": {
+            "value": 3.7,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1150"
+    },
+    {
+        "id": "SPVGAU8KZ7",
+        "title": "Intel Core I3-9100 Desktop Processor 4 Cores Up To 4.2 GHz LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07RXW4Y2K?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41Jfg+T6pNL._SL1500_.jpg",
+        "price": 155,
+        "brand": "Intel",
+        "model": "Core i3-9100",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "5Y0CEEDXEG",
+        "title": "AMD Ryzen 3 3200G 4-Core Unlocked Desktop Processor With Radeon Graphics",
+        "link": "https://amazon.com/dp/B07STGHZK8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/415J2TBbcyL._SL1500_.jpg",
+        "price": 92.99,
+        "brand": "AMD",
+        "model": "Ryzen 3 3200G",
+        "speed": {
+            "value": 4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "MDZQMGI1LF",
+        "title": "Intel Core I7 I7-4770K 3.5 GHz Processor BXF80646I74770K",
+        "link": "https://amazon.com/dp/B00DT5WV6E?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41MisTuStbL._SL1500_.jpg",
+        "price": 329.99,
+        "brand": "Intel",
+        "model": "Core i7-4770K",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1150"
+    },
+    {
+        "id": "DUKG87P6WU",
+        "title": "Intel Core I3-8350K Desktop Processor 4 Cores Up To 4.0 GHz Unlocked LGA 1151 300 Series 91W",
+        "link": "https://amazon.com/dp/B0759FWJDK?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/514kjb0pTqL._SL1500_.jpg",
+        "price": 295.55,
+        "brand": "Intel",
+        "model": "Core i3-8350K",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "8RPN4YGPTI",
+        "title": "Intel Core I3-9100F Desktop Processor 4 Core Up To 4.2 GHz Without Processor Graphics LGA1151 300 Series 65W",
+        "link": "https://amazon.com/dp/B07R7Q3JZH?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41kqgR8oZ4L._SL1500_.jpg",
+        "price": 114,
+        "brand": "Intel",
+        "model": "Core i3-9100F",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "NSGP0P69MH",
+        "title": "Intel Core I5-7600K LGA 1151 Desktop Processors (BX80677I57600K)",
+        "link": "https://amazon.com/dp/B01MRRPPQS?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41w7sj2ZcZL._SL1500_.jpg",
+        "price": 201.88,
+        "brand": "Intel",
+        "model": "Core i5-7600K",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "G967KRZ24E",
+        "title": "Intel Core I7-4770S Quad-Core Desktop Processor 3.1 GHZ 8 MB Cache- BX80646I74770S",
+        "link": "https://amazon.com/dp/B00CO8T9VM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41uDBMBVYWL._SL1500_.jpg",
+        "price": 280,
+        "brand": "Intel",
+        "model": "Core i7-4770S",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1150"
+    },
+    {
+        "id": "RWPFMNZICH",
+        "title": "AMD Ryzen 3 2200G Processor With Radeon Vega 8 Graphics - YD2200C5FBBOX",
+        "link": "https://amazon.com/dp/B079D3DBNM?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41eeWxnCoyL._SL1500_.jpg",
+        "price": 270,
+        "brand": "AMD",
+        "model": "Ryzen 3 2200G",
+        "speed": {
+            "value": 3.7,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "HKY0E7NUVL",
+        "title": "Intel Core I5 I5-7600 Quad-Core (4 Core) 3.50 GHz Processor - Socket H4 LGA-1151 OEM Pack-Tray Packaging CM8067702868011",
+        "link": "https://amazon.com/dp/B06XQ4KP9J?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/419UCbDQlgL._SL1500_.jpg",
+        "price": 175,
+        "brand": "Intel",
+        "model": "Core i5-7600",
+        "speed": {
+            "value": 4.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "DKG7GUPAXS",
+        "title": "Intel Core I5-7640X X-Series Processor 4 Cores Up To 4.2 GHz Turbo Unlocked LGA2066 X299 Series 112W",
+        "link": "https://amazon.com/dp/B071KMBHS8?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51ZH6c38uvL._SL1500_.jpg",
+        "price": 245.23,
+        "brand": "Intel",
+        "model": "Core i5-7640X",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 2066"
+    },
+    {
+        "id": "VHM1JZYIOK",
+        "title": "AMD Ryzen 3 1200 Desktop Processor With Wraith Stealth Cooler (YD1200BBAEBOX)",
+        "link": "https://amazon.com/dp/B0741DN383?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41WzqcY5tgL._SL1500_.jpg",
+        "price": 116.36,
+        "brand": "AMD",
+        "model": "Ryzen 3 1200",
+        "speed": {
+            "value": 3.4,
+            "unit": "GHz"
+        },
+        "socketType": "AM4"
+    },
+    {
+        "id": "CDOUO80OWV",
+        "title": "Intel Core I3-8300 3.7GHz 8MB Coffee Lake Boxed Desktop Processor",
+        "link": "https://amazon.com/dp/B07CBN3C8G?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51LZYv9nzvL._SL1500_.jpg",
+        "price": 175,
+        "brand": "Intel",
+        "model": "Core i3-8300",
+        "speed": {
+            "value": 5,
+            "unit": "Ghz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "QZIH8HFSET",
+        "title": "Intel Core I3-8100 Desktop Processor 4 Cores Up To 3.6 GHz Turbo Unlocked LGA1151 300 Series 95W",
+        "link": "https://amazon.com/dp/B0759FTRZL?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41-DDKwErFL._SL1500_.jpg",
+        "price": 162,
+        "brand": "Intel",
+        "model": "Core i3-8100",
+        "speed": {
+            "value": null
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "YHUGI6QKQS",
+        "title": "Intel Core I5-7500 LGA 1151 7th Gen Core Desktop Processor",
+        "link": "https://amazon.com/dp/B01MZZJ1P0?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51XrkNI7q+L._SL1500_.jpg",
+        "price": 160,
+        "brand": "Intel",
+        "model": "Core i5-7500",
+        "speed": {
+            "value": 3.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "WPJG8SE1A6",
+        "title": "Intel Boxed Core I5-6600 FC-LGA14C 3.30 Ghz 6 M Processor Cache 4 LGA 1151 BX80662I56600",
+        "link": "https://amazon.com/dp/B010T6D39O?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51GvhU1oiVL._SL1500_.jpg",
+        "price": 235,
+        "brand": "Intel",
+        "model": "Core i5-6600",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "NSOQEKFVH6",
+        "title": "Intel Corp. BX80662I56402P Core I5 6402P Processor",
+        "link": "https://amazon.com/dp/B01B2PJRN2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41ufQ46KkbL._SL1500_.jpg",
+        "price": 179.88,
+        "brand": "Intel",
+        "model": "Core i5-6402P",
+        "speed": {
+            "value": 3.4,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "BPYHX0IF8X",
+        "title": "Intel Core I5 6500 3.20 GHz Quad Core Skylake Desktop Processor, Socket LGA 1151, 6MB Cache",
+        "link": "https://amazon.com/dp/B010T6CWI2?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51Gq81DIpEL._SL1500_.jpg",
+        "price": 130,
+        "brand": "Intel",
+        "model": "Core i5-6500",
+        "speed": {
+            "value": 3.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "UFCGXSRCIR",
+        "title": "Intel BX80677I57400 7th Gen Core Desktop Processors",
+        "link": "https://amazon.com/dp/B01MSTDS3N?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51syQ3w0JQL._SL1500_.jpg",
+        "price": 150,
+        "brand": "Intel",
+        "model": "Core i5-7400",
+        "speed": {
+            "value": 3.5,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "RPX23QHU7R",
+        "title": "Intel Boxed Core I5-6400 FC-LGA14C 2.70 Ghz 6 M Processor Cache 4 LGA 1151 BX80662I56400 (Renewed)",
+        "link": "https://amazon.com/dp/B07PF18XJF?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41PnQ4D3G0L._SL1500_.jpg",
+        "price": 68.99,
+        "brand": "Intel",
+        "model": "Core i5-6400",
+        "speed": {
+            "value": 3.3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "IMHHVEXFMQ",
+        "title": "Intel SR2L8 Core I5-6500T LGA 1151 2.5GHz Desktop CPU",
+        "link": "https://amazon.com/dp/B077NHL5LH?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/5145Ls5+zYL._SL1500_.jpg",
+        "price": 289.95,
+        "brand": "Intel",
+        "model": "Core i5-6500T",
+        "speed": {
+            "value": 3.1,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "7SE5XHKGG7",
+        "title": "Intel 7th Generation Core I3-7350K 4.20 GHz FCLGA1151 Desktop Processor (BX80677I37350K)",
+        "link": "https://amazon.com/dp/B01NCEJN24?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51zz2iDOkEL._SL1500_.jpg",
+        "price": 109.99,
+        "brand": "Intel",
+        "model": "Core i3-7350K",
+        "speed": {
+            "value": 4.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "QTEM4EBO60",
+        "title": "Intel Core I7 I7-4765T Quad-core (4 Core) 2 GHz Processor - Socket H3 LGA-1150OEM Pack - 1 MB - 8 MB Cache - Yes - 3 GHz Overclocking Speed - 22 Nm - 3 Number Of Monitors Supported - Intel HD 4600 Gr",
+        "link": "https://amazon.com/dp/B00J5915DI?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51M5Z-1S+2L._SL1500_.jpg",
+        "price": 498.95,
+        "brand": "Intel",
+        "model": "Core i7-4765T",
+        "speed": {
+            "value": 3,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1150"
+    },
+    {
+        "id": "DLWXSDM9SX",
+        "title": "Intel Boxed Core I3-6300 Dual Core Processor 3.8GHz LGA1151 BX80662I36300",
+        "link": "https://amazon.com/dp/B015VPX3G6?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/417RwYnaFrL._SL1500_.jpg",
+        "price": 174.22,
+        "brand": "Intel",
+        "model": "Core i3-6300",
+        "speed": {
+            "value": 3.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "WDYSFRDJ3B",
+        "title": "Intel Core I3-6300T I3 6300T 3.3 GHz Dual-Core Quad-Thread CPU Processor 4M 35W LGA 1151",
+        "link": "https://amazon.com/dp/B0868M96R6?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51sdONGxrpL._SL1500_.jpg",
+        "price": 97.08,
+        "brand": "Intel",
+        "model": "Core i3-6300T",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "QYOEQHKYKK",
+        "title": "Intel Core I5-6400T, 4 Cores & 4 Threads Unlocked Desktop Processor With Intel HD Graphics 530",
+        "link": "https://amazon.com/dp/B0161UZV42?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51EZ9LjV6JL._SL1500_.jpg",
+        "price": 190,
+        "brand": "Intel",
+        "model": "Core i5-6400T",
+        "speed": {
+            "value": 2.8,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "ZXQWFQKQ86",
+        "title": "Intel Core I3-7100 7th Gen Core Desktop Processor 3M Cache,3.90 GHz (BX80677I37100)",
+        "link": "https://amazon.com/dp/B01NCESRJX?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41SsYfZm49L._SL1500_.jpg",
+        "price": 105,
+        "brand": "Intel",
+        "model": "Core i3-7100",
+        "speed": {
+            "value": 3.9,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "DC6RA0TFZP",
+        "title": "Intel 3.70 GHz Core I3-6100 3M Cache Processor (BX80662I36100)",
+        "link": "https://amazon.com/dp/B015VPX2EO?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51m7931xzhL._SL1500_.jpg",
+        "price": 115,
+        "brand": "Intel",
+        "model": "Core i3-6100",
+        "speed": {
+            "value": 3.7,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "0ZU31RZAV8",
+        "title": "Intel Corp. BX80662I36098P Core I3 6098P Processor",
+        "link": "https://amazon.com/dp/B01A3N74YS?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/41FnPLTR8PL._SL1500_.jpg",
+        "price": 149.88,
+        "brand": "Intel",
+        "model": "Core i3-6098P",
+        "speed": {
+            "value": 3.6,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    },
+    {
+        "id": "TUOPS1IHXC",
+        "title": "Intel Corp. BX80662I36100T Core I3 6100T Processor LV",
+        "link": "https://amazon.com/dp/B015XEXILK?tag=pcbuildcompat-20",
+        "img": "https://m.media-amazon.com/images/I/51CZRcIXxfL._SL1500_.jpg",
+        "price": 110,
+        "brand": "Intel",
+        "model": "Core i3-6100T",
+        "speed": {
+            "value": 3.2,
+            "unit": "GHz"
+        },
+        "socketType": "LGA 1151"
+    }
+]
