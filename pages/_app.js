@@ -1,5 +1,6 @@
 import Theme from "/pages/src/context/Theme.jsx";
 import Head from 'next/head'
+import Layout from "./src/components/common/layout/Layout";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -12,6 +13,7 @@ function MyApp({ Component, pageProps }) {
         rel="stylesheet"
       />
     </Head>
+    <Layout />
     <Component {...pageProps} />
   </Theme>
   )
