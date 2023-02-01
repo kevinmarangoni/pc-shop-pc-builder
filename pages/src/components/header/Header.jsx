@@ -38,6 +38,5 @@ const Menu = styled.ul`
     justify-content: center;
     align-items: center;
     height: 60px;
-    min-width:
   }
 `;
