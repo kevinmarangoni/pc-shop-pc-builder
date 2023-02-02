@@ -6,7 +6,7 @@ export const GlobalStyle = createGlobalStyle`
         padding: 0;
         margin: 0;
         box-sizing: border-box;
-        border: 1px dashed ${props=> props.theme.color.font.primary};
+        /* border: 1px dashed ${props=> props.theme.color.font.primary}; */
         color: ${props=> props.theme.color.font.primary};
         font-family: 'Abel', sans-serif;
     }
