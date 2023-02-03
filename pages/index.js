@@ -1,8 +1,8 @@
-import styled from "styled-components"
+import ProductCarousel from "./src/components/products/ProductCarousel"
 
 export default function Home() {
   return (
-    <div>
-      
-    </div>
+   <>
+   <ProductCarousel/>
+   </>
   )}
