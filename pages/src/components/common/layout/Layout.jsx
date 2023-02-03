@@ -15,7 +15,7 @@ const Layout = ({children}) => {
 
 const Container = styled.div`
 width: 100%;
-height: 100vh;
+height: 100%;
 `
 
 const Content = styled.div`

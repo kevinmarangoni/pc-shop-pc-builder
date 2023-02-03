@@ -25,6 +25,12 @@ const Header = () => {
             </svg>
             MEUS FAVORITOS
           </li>
+          <li>
+            <svg>
+              <path d="M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69zM12 18c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6zm0-10c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"></path>
+            </svg>
+            MODO CLARO
+          </li>
         </Menu>
         <Cart>
           <button>
@@ -68,34 +74,45 @@ const Header = () => {
 export default Header;
 
 const Container = styled.div`
+  h1 {
+    font-size: 60px;
+  }
 `;
 
 const Content = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 100px;
+  gap: 64px;
   margin: 0 auto;
 `;
 
 const Menu = styled.ul`
-  height: 62px;
-  width: 670px;
+  height: 68px;
+  width: 970px;
   display: flex;
   justify-content: flex-end;
   flex-direction: row;
   list-style-type: none;
-  gap: 0.5em;
+  gap: 1em;
   li {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60px;
+    height: 65px;
+    gap: 0.2rem;
   }
   svg {
-    height: 25px;
-    width: 25px;
+    height: 40px;
+    width: 40px;
     fill: green;
+    cursor: pointer;
+    padding: 7px;
+    :hover {
+      background-color: #424242;
+      border-radius: 50%;
+      padding: 7px;
+    }
   }
 `;
 
@@ -106,12 +123,16 @@ const Cart = styled.div`
     align-items: center;
     justify-content: center;
     gap: 10px;
-    padding: 20px;
+    padding: 30px;
     width: 200px;
     height: 50px;
     background-color: green;
+    border: 1px solid green;
     border-radius: 5px;
-    border: none;
+    cursor: pointer;
+    :hover {
+      background-color: #5f5f5f;
+    }
     span {
       font-size: 13px;
       text-align: right;
@@ -145,11 +166,12 @@ const HoverMenu = styled.div`
     align-items: center;
     justify-content: center;
     background-color: green;
-    border: none;
+    border: 1px solid green;
     width: 340px;
     padding: 5px 12px;
     border-radius: 5px;
     gap: 20px;
+    cursor: pointer;
     span {
       text-align: right;
       width: 150px;
@@ -163,30 +185,35 @@ const HoverMenu = styled.div`
       height: 25px;
       fill: white;
     }
+    :hover {
+      background-color: #5f5f5f;
+    }
   }
 `;
 
 const SearchBox = styled.div`
-div{
-  
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #424242;
-  border-radius: 5px;
-}
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #424242;
+    border-radius: 5px;
+  }
   svg {
     width: 25px;
     height: 25px;
     fill: white;
+    cursor: pointer;
   }
   input {
     margin: 0 auto;
-    width: 720px;
+    width: 1020px;
     padding: 10px;
     background-color: #424242;
     color: white;
     outline: none;
     border: none;
+    font-size: 18px;
+    font-weight: bold;
   }
 `;
