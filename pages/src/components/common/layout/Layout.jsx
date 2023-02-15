@@ -1,26 +1,25 @@
-import React from 'react'
 import styled from 'styled-components'
-import Header from '../../header/Header'
+import CartShopping from '../../Cart/Cart'
+
 
 const Layout = ({children}) => {
   return (
     <Container>
-      <Header />
+      <CartShopping/>
         <Content>
             {children}
         </Content>
     </Container>
   )
 }
+export default Layout
 
 const Container = styled.div`
-width: 100%;
-height: 100%;
+width: min(100% - 30px, 1500px);
+margin-inline: auto;
 `
 
 const Content = styled.div`
 
-
 `
 
-export default Layout
